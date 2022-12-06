@@ -1,0 +1,5 @@
+integer = int()
+float = float(123)
+string = str("Python")
+print(type(integer))
+print(type(float))
